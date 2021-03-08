@@ -3,7 +3,7 @@ import React from "react";
 
 function About() {
     return (
-        <body>
+        
         <main className="container header">
         
        
@@ -14,7 +14,7 @@ function About() {
         <hr/>
         
         <section className="pr-3">
-            <img src="../../images/Joe.jpg" className="float-left p-2" alt="Joe Rhines" height="200"/>
+            <img src="./assets/images/Joe.jpg" className="float-left p-2" alt="Joe Rhines" height="200"/>
             <p>
                 
                 My name is Joseph Rhines and I am from Burnsville, MN. I currently live in Eden
@@ -56,7 +56,7 @@ function About() {
         </section>
 
 </main>
-</body>
+
 
     );
 }
