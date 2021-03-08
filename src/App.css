@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {color: darkcyan;}
+
+body {background-color: cyan;}
