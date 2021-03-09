@@ -10,36 +10,36 @@
       "id": 2,
       "image": "",
       "title": "Games[i]",
-      "deployed": "Restaurant Owner",
-      "repo": "A Giant Anchor"
+      "deployed": "https://game-i.herokuapp.com/",
+      "repo": "https://github.com/inqueblot/boardgame_collection"
     },
     {
       "id": 3,
-      "image": "Squidward",
-      "title": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-      "deployed": "Cashier",
-      "repo": "An Easter Island Head"
+      "image": "",
+      "title": "Burger App",
+      "deployed": "https://big-fat-burger.herokuapp.com/",
+      "repo": "https://github.com/JosephRhines/burger"
     },
     {
       "id": 4,
-      "image": "Dexter",
-      "title": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-      "deployed": "Boy Genius",
-      "repo": "A Secret Laboratory"
+      "image": "",
+      "title": "Quizz2021",
+      "deployed": "https://josephrhines.github.io/Quiz2021/",
+      "repo": "https://github.com/JosephRhines/Quiz2021"
     },
     {
       "id": 5,
-      "image": "Courage",
-      "title": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-      "deployed": "A Cowardly Dog",
-      "repo": "Nowhere, Kansas"
+      "image": "",
+      "title": "WeatherDashboard",
+      "deployed": "https://josephrhines.github.io/WeatherDashbord2021/",
+      "repo": "https://github.com/JosephRhines/WeatherDashbord2021"
     },
     {
       "id": 6,
-      "image": "Doug Funnie",
-      "title": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-      "deployed": "Student",
-      "repo": "Bluffington"
+      "image": "",
+      "title": "Employee-Directory",
+      "deployed": "https://josephrhines.github.io/employee-directory/",
+      "repo": "https://josephrhines.github.io/employee-directory/"
     }
 
   ]
