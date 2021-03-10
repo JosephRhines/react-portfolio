@@ -5,9 +5,9 @@ function Portfolio() {
         <>
         <main class="container header">
     <header class="row">
-      <div class="col-md-2">
+      {/* <div class="col-md-2"> */}
         <h1>Portfolio</h1>
-      </div>
+      {/* </div> */}
     </header>
 
     
@@ -23,7 +23,7 @@ function Portfolio() {
       <div class="col-md-3 border m-1"><img src="./assets/images/quizz.jpg" width="100%" alt="quizz"/><br/><strong>Title: Quizz2021</strong><br/><a href="https://josephrhines.github.io/Quiz2021/" target="_blank">Deployed Link</a><br/><a href="https://github.com/JosephRhines/Quiz2021" target="_blank">Github Repo</a></div>
       <div class="col-md-3 border m-1"><img src="./assets/images/weather.jpg" width="100%"  alt="weather"/><br/><strong>Title: WeatherDashboard2021</strong><br/><a href="https://josephrhines.github.io/WeatherDashbord2021/" target="_blank">Deployed Link</a><br/><a href="https://github.com/JosephRhines/WeatherDashbord2021" target="_blank">Github Repo</a></div>
       <div class="col-md-3 border m-1"><img src="./assets/images/employee.jpg" width="100%"  alt="employee-directory"/><br/><strong>Title: Employee-Directory</strong><br/><a href="https://josephrhines.github.io/employee-directory/" target="_blank">Deployed Link</a><br/><a href="https://github.com/JosephRhines/employee-directory" target="_blank">Github Repo</a></div>
-      <div class="col-md-2"></div>
+     
     </section>
     
 

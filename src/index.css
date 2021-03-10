@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: cyan;
+  
+}
+
+html {
+  background-color: cyan;
+}
+div{
+  background-color: white;
+}
+#root {
+  background-color: cyan;
 }
 
 code {
