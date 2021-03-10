@@ -1,4 +1,5 @@
 import React from "react";
+import Joe from "../../assets/images/Joe.jpg";
 
 
 function About() {
@@ -14,7 +15,7 @@ function About() {
         <hr/>
         
         <section className="pr-3">
-            <img src="./assets/images/Joe.jpg" className="float-left p-2" alt="Joe Rhines" height="200"/>
+            <img src={Joe} className="float-left p-2" alt="Joe Rhines" height="200"/>
             <p>
                 
                 My name is Joseph Rhines and I am from Burnsville, MN. I currently live in Eden
