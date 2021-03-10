@@ -14,7 +14,7 @@ function About() {
 
         <hr/>
         
-        <section className="pr-3">
+        <div className="pr-3">
             <img src={Joe} className="float-left p-2" alt="Joe Rhines" height="200"/>
             <p>
                 
@@ -54,7 +54,7 @@ function About() {
             <br/>
 
 
-        </section>
+        </div>
 
 </main>
 

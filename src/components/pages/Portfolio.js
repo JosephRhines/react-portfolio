@@ -5,15 +5,16 @@ import employee from "../../assets/images/employee.jpg";
 import weather from "../../assets/images/weather.jpg";
 import quizz from "../../assets/images/quizz.jpg";
 import nationalparks from "../../assets/images/nationalparks.jpg";
+import "../../styles/Portfolio.css";
 
 function Portfolio() {
     return (
         <>
         <main class="container header">
     <header class="row">
-      {/* <div class="col-md-2"> */}
+       {/* <div class="col-md-2">  */}
         <h1>Portfolio</h1>
-      {/* </div> */}
+       {/* </div> */}
     </header>
 
     
