@@ -12,9 +12,9 @@ function Portfolio() {
         <>
         <main class="container header">
     <header class="row">
-       {/* <div class="col-md-2">  */}
+     
         <h1>Portfolio</h1>
-       {/* </div> */}
+      
     </header>
 
     
