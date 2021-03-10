@@ -6,6 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: cyan;
+  /* border: 2px solid red; */
+  /* height: calc(100vh - 50px); */
   
 }
 
