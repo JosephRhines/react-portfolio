@@ -1,16 +1,10 @@
 
 
-.border  {
+.r-border  {
     border-style: solid !important;
-    border-color: red !important;
-    border-width: 1px !important;
+    border-color: cyan !important;
+    border-width: 3px !important;
     
 
 }
 
-.m1 {
-    border-style: solid !important;
-    border-color: red !important;
-    border-width: 1px !important;
-
-}
