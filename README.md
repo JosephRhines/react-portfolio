@@ -5,9 +5,9 @@ A portfolio built with react that showcases projects I built with a team and ind
 
 #Links:
 <br>
-https://github.com/JosephRhines/react-portfolio
+<a href="https://github.com/JosephRhines/react-portfolio" target="_blank" rel="noreferrer">Github Repo</a>
 <br>
-https://josephrhines.github.io/react-portfolio/
+<a href="https://josephrhines.github.io/react-portfolio/" target="_blank" rel="noreferrer">Deployed Link</a>
 
 
 
