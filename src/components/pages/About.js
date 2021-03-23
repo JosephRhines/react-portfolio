@@ -19,35 +19,29 @@ function About() {
             <p>
                 
                 My name is Joseph Rhines and I am from Burnsville, MN. I currently live in Eden
-                Prairie, MN. I live near by the downtown area and enjoy being so close to the mall.
+                Prairie, MN. I live nearby the downtown area and enjoy being so close to the mall.
                 <br/>
-                I want to to be able to become a good developer.
-                Im trying really hard to make that happen. I'm spending hours watching youtube videos and looking
-                at other resouces with the goal of improving craft. I was enrolled in this coding bootcamp a around
-                a year ago.
-                I had to discontinue the program I was in because my wife had a new job opportunity she wanted to
-                pursue and one of
-                us had to stay home to take care of our son. I ended up staying at home to take care of him and I
-                enjoyed my time
-                with him. Now I'm back and I want to finish what I started a year a go. This has been a chanllening
-                adventure but
-                I am learning alot. This is the first time i'm doing a class over zoom and I really like it. I'ts
-                really nice that
-                I don't have to pay for parking like I did when I was coming to the U of M a year ago.
+                I have a nine year old son that is enrolled in Code Ninja which is a program that teaches
+                children to code and it's neat to have conversations about coding with him.
+                I am certified in the MERN Stack through the University of Minnesota and have created
+                projects using MERN technologies. I have experience in both Front and Back end Development.
+                I also have a background in Software Testing and have a C.A.S.T certification.
+
+                
+                
 
             </p>
-            <p>Please bare with me, because I would like to tell you alittle more about myself below.</p>
+            <p>In the below paragraph I will to tell you about how overcoming obstacles in other parts of my life
+               has helped me as a developer.</p>
             <br/>
             <br/>
             <br/>
-            <p> Me and my Son go to an American Ninja Warrior gym in Eden Prairie, Minnesota. The gym is called
-                Obstacle Academy and we
-                have around 5 people that go to the gym that has been on the American Ninja Warrior show. My son is
-                on the advanced team
-                at the gym and I go to open gyms and do some competitions from time to time. Sometimes I wonder
-                which craft is more
-                challenging. If I had to guess I would say coding, but ninja warrior has helped me mentally to face
-                challenges.
+            <p> The two hobbies I do the most are Roller Skating and Ninja Warrior Training. Even though both activities 
+                can take a physical toll on the body I found out that the mental aspect can be just as tuff. Over coming
+                obstacles that seemed impossible at first helped me mentally prepare for coding problems that are very
+                hard to figure out. Just like in my hobbies it takes hard work, patience, and humbleness to ask for help
+                and take good advice when it is given. I am excited to continue to grow and learn as Software Developer.
+                
             </p>
             <br/>
             <br/>
